@@ -1,3 +1,5 @@
+Modified to be Python 3 compatible.
+
 avsend
 ======
 
